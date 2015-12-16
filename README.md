@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub.
 
-Its gonna be great learning experience!!
+Its gonna be a great learning experience!!
